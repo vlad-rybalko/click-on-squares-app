@@ -1,1 +1,1 @@
-# click-on-squares-app
+# Игра на JavaScript
